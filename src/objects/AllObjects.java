@@ -15,6 +15,6 @@ public class AllObjects {
 //11.	private static ResultSet resultSet;
 //12.	
 
-// 	i love dear my Hadia jan 
+
 	
 }

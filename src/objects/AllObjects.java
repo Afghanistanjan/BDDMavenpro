@@ -2,7 +2,7 @@ package objects;
 
 public class AllObjects {
 
-//1.    Actions action = new Actions(driver);                                          //mouse movement or doubleclick…
+//1.    Actions action = new Actions(driver);                                          //mouse movement or doubleclickâ€¦
 //2.	WebDriver driver = new ChromeDriver();                                         //
 //3.	Select select = new Select();                                                  //use for dropdown
 //4.	WebDriverWait wait = new WebDriverWait(driver, 15);                            //it use for explicite wait
@@ -15,6 +15,6 @@ public class AllObjects {
 //11.	private static ResultSet resultSet;
 //12.	
 
-	
+// 	i love dear my Hadia jan 
 	
 }
